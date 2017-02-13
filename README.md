@@ -18,9 +18,9 @@ OSX 10.11
 
 ・ZigSimアプリのSettingsタブをタップし、
 
-　　[IP ADDRESS]をPCが繋がっているIP ADDRESSと合わせる
+　[IP ADDRESS]をPCが繋がっているIP ADDRESSと合わせる
  
- [PROTOCOL]をUDPに変更
+　[PROTOCOL]をUDPに変更
  
 　[DATE DESTINATION　]をOTHER APP　に変更
 
