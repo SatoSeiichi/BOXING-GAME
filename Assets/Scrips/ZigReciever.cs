@@ -10,7 +10,7 @@ public class ZigReciever : MonoBehaviour {
 	public delegate void OnReciveDataCallback(string data);
 
 	UdpClient udp;
-	int portNo=50000;
+	public int portNo=50000;
 	Thread thread;
 
 	OnReciveDataCallback OnReceiveData;
